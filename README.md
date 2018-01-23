@@ -2,6 +2,8 @@
 
 # Elasticsearch 权威指南（中文版）
 
+> 本开源书 forked from [Elasticsearch 权威指南（中文版）](https://github.com/looly/elasticsearch-definitive-guide-cn)，作者为 [looly](https://github.com/looly)，欢迎大家 star 原作者的 [repo](https://github.com/looly/elasticsearch-definitive-guide-cn)，以便获得最新更新，谢谢！
+
 ## 阅读地址：~~[Elasticsearch权威指南（中文版）](http://es.xiaoleilu.com/)~~
 
 ## 最新版阅读地址：[Elasticsearch: 权威指南](http://es-guide-preview.elasticsearch.cn/)
